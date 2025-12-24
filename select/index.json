@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星をつなげて",
+  "base_artist": "Gothic×Luck",
+  "createdAt": "2025-12-24T14:28:49.900993Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星をつなげて",
+      "artist": "Gothic×Luck",
+      "has_synced": false,
+      "path": "select/pl_01_星をつなげて_Gothic×Luck.txt"
+    }
+  ]
+}
